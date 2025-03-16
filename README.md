@@ -49,8 +49,7 @@ npm run dev  # or yarn dev
 ```
 Visit [http://localhost:3000](http://localhost:3000) in your browser to see the app in action.
 
-## 🌍 Live Demo
-Check out the live version of the app here: [Personal Finance Visualizer](personal-finance-visualizer-ebon.vercel.app)
+
 
 ## 📦 Build & Deploy
 ### **Build for Production**
